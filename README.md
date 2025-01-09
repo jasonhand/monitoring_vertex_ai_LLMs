@@ -23,6 +23,7 @@ In this session, you'll learn about generative AI deployments as well as how Dat
 ### Docs
 
 - [Datadog LLM Observability instrumentation documentation](https://docs.datadoghq.com/llm_observability/setup/auto_instrumentation/)
+- [Innovate faster with enterprise-ready AI, enhanced by Gemini models](https://cloud.google.com/vertex-ai?hl=en#build-with-gemini)
 
 ### Blogs
 
