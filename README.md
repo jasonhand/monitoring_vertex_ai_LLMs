@@ -44,3 +44,4 @@ In this session, you'll learn about generative AI deployments as well as how Dat
 - [Gemini for Google Cloud](https://cloud.google.com/products/gemini)
 - [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/)
 - [Datadog DASH](https://dashcon.io)
+- [The CIO’s Guide to Artificial Intelligence](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-artificial-intelligence)
