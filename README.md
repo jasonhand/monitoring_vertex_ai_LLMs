@@ -24,6 +24,7 @@ In this session, you'll learn about generative AI deployments as well as how Dat
 
 - [Datadog LLM Observability instrumentation documentation](https://docs.datadoghq.com/llm_observability/setup/auto_instrumentation/)
 - [Innovate faster with enterprise-ready AI, enhanced by Gemini models](https://cloud.google.com/vertex-ai?hl=en#build-with-gemini)
+- [Google Cloud TPU](https://docs.datadoghq.com/integrations/google_cloud_tpu/)
 
 ### Blogs
 
@@ -45,3 +46,7 @@ In this session, you'll learn about generative AI deployments as well as how Dat
 - [Gemini for Google Workspace](https://workspace.google.com/solutions/ai/)
 - [Datadog DASH](https://dashcon.io)
 - [The CIO’s Guide to Artificial Intelligence](https://www.gartner.com/smarterwithgartner/the-cios-guide-to-artificial-intelligence)
+
+### Get Involved
+
+GPU monitoring is in private preview. If you want to learn more, reach out to this email address gpu-monitoring-product@datadoghq.com to request admittance to the preview
