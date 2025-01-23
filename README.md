@@ -1,4 +1,4 @@
-# Monitoring Vertex AI with Gemini LLMs
+# Monitoring Google Gemini Models with Datadog
 
 Companion materials
 
@@ -17,6 +17,10 @@ In this session, you'll learn about generative AI deployments as well as how Dat
 ## Demo
 
 - [GCP Demo deployment](https://github.com/GoogleCloudPlatform/microservices-demo)
+
+## Slides
+
+[PDF Slides](https://jasonhand.com/images/slides/MonitoringGoogleGeminiModelswithDatadog.pdf)
 
 ## Links
 
